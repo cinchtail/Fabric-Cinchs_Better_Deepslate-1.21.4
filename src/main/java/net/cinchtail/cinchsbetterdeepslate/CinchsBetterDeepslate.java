@@ -1,6 +1,5 @@
 package net.cinchtail.cinchsbetterdeepslate;
 
-import com.nimbusds.oauth2.sdk.id.Identifier;
 import net.cinchtail.cinchsbetterdeepslate.block.ModBlocks;
 import net.cinchtail.cinchsbetterdeepslate.item.ModItemGroups;
 import net.cinchtail.cinchsbetterdeepslate.item.ModItems;
